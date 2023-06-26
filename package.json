@@ -25,6 +25,7 @@
     "@storybook/nextjs": "^7.0.23",
     "@storybook/react": "^7.0.23",
     "@storybook/testing-library": "^0.0.14-next.2",
+    "chromatic": "^6.19.9",
     "eslint-plugin-storybook": "^0.6.12",
     "storybook": "^7.0.23",
     "storybook-addon-designs": "^6.3.1"
